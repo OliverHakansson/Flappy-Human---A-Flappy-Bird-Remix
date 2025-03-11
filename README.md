@@ -1,4 +1,4 @@
-# Flappy Bird: Flap Your Arms Edition
+# Flappy Human: Flappy Bird Remix
 
 Welcome to the Flappy Bird: Flap Your Arms Edition! This game adds a fun twist to the classic Flappy Bird gameplay by allowing you to control the bird by physically flapping your arms. Whether you're playing for fun or getting a light workout, this game is sure to keep you entertained!
 
